@@ -4,7 +4,7 @@
   "description": "Primer proyecto con Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node config/db.js",
     "dev": "nodemon index.js"
   },
   "type": "module",
