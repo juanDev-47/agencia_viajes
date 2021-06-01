@@ -1,1 +1,1 @@
-web: node config/bd.js
+web: node index.js
